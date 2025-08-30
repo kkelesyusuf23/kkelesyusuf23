@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
  <h1 align="center">Hi There! I'm Yusuf Keleş</h1>
- <img src="https://raw.githubusercontent.com/kkelesyusuf23/kkelesyusuf23/output/snake.svg" alt="Snake animation" />
 
 <h3 align="center">
  
