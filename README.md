@@ -2,9 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
  <h1 align="center">Hi There! I'm Yusuf Keleş</h1>
+ <img src="https://raw.githubusercontent.com/kkelesyusuf23/kkelesyusuf23/output/snake.svg" alt="Snake animation" />
+
 <h3 align="center">
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=Full+Stack+.Net+Developer  )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=Software+Engineer  )](https://git.io/typing-svg)
 
 </h3>
 
